@@ -1,0 +1,30 @@
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\bin\Debug\net6.0\SalesLetter.exe
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\bin\Debug\net6.0\SalesLetter.deps.json
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\bin\Debug\net6.0\SalesLetter.runtimeconfig.json
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\bin\Debug\net6.0\SalesLetter.dll
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\bin\Debug\net6.0\SalesLetter.pdb
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.csproj.AssemblyReference.cache
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.AssemblyInfoInputs.cache
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.AssemblyInfo.cs
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.csproj.CoreCompileInputs.cache
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.dll
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\refint\SalesLetter.dll
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.pdb
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\SalesLetter.genruntimeconfig.cache
+D:\SchoolOneDrive\OneDrive - KCTCS\School 2022\Fall2022\C#2\SalesLetter\obj\Debug\net6.0\ref\SalesLetter.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\bin\Debug\net6.0\SalesLetter.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\bin\Debug\net6.0\SalesLetter.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\bin\Debug\net6.0\SalesLetter.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\bin\Debug\net6.0\SalesLetter.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\bin\Debug\net6.0\SalesLetter.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\refint\SalesLetter.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\SalesLetter.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SalesLetter\obj\Debug\net6.0\ref\SalesLetter.dll
