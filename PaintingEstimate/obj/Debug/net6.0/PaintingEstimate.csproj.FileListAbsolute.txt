@@ -1,0 +1,15 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\refint\PaintingEstimate.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\PaintingEstimate\obj\Debug\net6.0\ref\PaintingEstimate.dll
