@@ -1,0 +1,15 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\bin\Debug\net6.0\ConvertMilesToKilometers.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\bin\Debug\net6.0\ConvertMilesToKilometers.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\bin\Debug\net6.0\ConvertMilesToKilometers.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\bin\Debug\net6.0\ConvertMilesToKilometers.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\bin\Debug\net6.0\ConvertMilesToKilometers.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\refint\ConvertMilesToKilometers.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ConvertMilesToKilometers.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\ConvertMilesToKilometers\obj\Debug\net6.0\ref\ConvertMilesToKilometers.dll
