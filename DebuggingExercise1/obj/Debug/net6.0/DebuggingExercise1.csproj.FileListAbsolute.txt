@@ -1,0 +1,15 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\bin\Debug\net6.0\DebuggingExercise1.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\bin\Debug\net6.0\DebuggingExercise1.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\bin\Debug\net6.0\DebuggingExercise1.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\bin\Debug\net6.0\DebuggingExercise1.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\bin\Debug\net6.0\DebuggingExercise1.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\refint\DebuggingExercise1.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\DebuggingExercise1.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebuggingExercise1\obj\Debug\net6.0\ref\DebuggingExercise1.dll
