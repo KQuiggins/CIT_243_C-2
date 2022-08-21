@@ -1,20 +1,15 @@
 ﻿using static System.Console;
+using System.Reflection;
 
-class Sentence
+
+class PracticeCode
 {
-    string[] words = "The quick brown fox.".Split();
-
-    public string this[int wordNum]
-    {
-        get { return words[wordNum]; }
-        set { words[wordNum] = value; }
-    }
-
     static void Main()
     {
-        Sentence s = new Sentence();
-        WriteLine(s[3]);
-        s[3] = "kangaroo";
-        WriteLine(s[3]);
+        string applesText = "Apples";
+        int applesCount = 1234;
+        string bananasText = "Bananas";
+        int bananasCount = 56789;
+        WriteLine(format: "{0,-5} {1,5}", arg0: applesText, arg1: applesCount);
     }
 }
