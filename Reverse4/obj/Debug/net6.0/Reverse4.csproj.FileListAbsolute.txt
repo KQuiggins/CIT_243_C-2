@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\bin\Debug\net6.0\Reverse4.exe
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\bin\Debug\net6.0\Reverse4.deps.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\bin\Debug\net6.0\Reverse4.runtimeconfig.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\bin\Debug\net6.0\Reverse4.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\bin\Debug\net6.0\Reverse4.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.AssemblyInfo.cs
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\refint\Reverse4.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\Reverse4.genruntimeconfig.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\Reverse4\obj\Debug\net6.0\ref\Reverse4.dll
