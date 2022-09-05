@@ -1,0 +1,15 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\bin\Debug\net6.0\DebugEight1.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\bin\Debug\net6.0\DebugEight1.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\bin\Debug\net6.0\DebugEight1.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\bin\Debug\net6.0\DebugEight1.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\bin\Debug\net6.0\DebugEight1.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\refint\DebugEight1.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\DebugEight1.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugEight1\obj\Debug\net6.0\ref\DebugEight1.dll
