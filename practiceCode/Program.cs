@@ -1,15 +1,14 @@
 ﻿using static System.Console;
 using System.Reflection;
+using System.Collections.Generic;
 
 
 class PracticeCode
 {
     static void Main()
     {
-        string applesText = "Apples";
-        int applesCount = 1234;
-        string bananasText = "Bananas";
-        int bananasCount = 56789;
-        WriteLine(format: "{0,-5} {1,5}", arg0: applesText, arg1: applesCount);
+        Dictionary<int, string> dict = new Dictionary<int, string>();
+        dict.Add(1, "one");
+        dict.Add(2, "two");
     }
 }
