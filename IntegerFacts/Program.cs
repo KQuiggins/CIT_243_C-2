@@ -1,4 +1,4 @@
-﻿/*Create a program named IntegerFacts whos main method declares an Array of 10 integers.
+﻿/*Create a program named IntegerFacts who's main method declares an Array of 10 integers.
 Call a method named FillArray to interactively fill the array with any number of 
 values up to ten or until a sentinel value (999) is entered. If an entry isn't an integer,
 re - prompt the user.
