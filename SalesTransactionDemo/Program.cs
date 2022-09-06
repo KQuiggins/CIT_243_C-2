@@ -9,21 +9,21 @@ class SalesTransactionDemo
     
    static void Main()
    {
-     SalesTransaction sale1 = new SalesTransaction("Joe", 200.50, .2033);
-    SalesTransaction sale2 = new SalesTransaction("Ellen", 15.99);
-    SalesTransaction sale3 = sale1 + sale2;
-    WriteLine("{0} {1}", sale3.Name, sale3.SalesAmount);
+        SalesTransaction sale1 = new SalesTransaction("Joe", 200.50, 20.00);
+        SalesTransaction sale2 = new SalesTransaction("Ellen", 15.99);
+        SalesTransaction sale3 = new SalesTransaction("Sue");
+        
         
    }
    public static void Display(SalesTransaction s)
    {
-         WriteLine("{0} {1}", s.Name, s.SalesAmount, );
+         WriteLine($"{s.Name} {s.salesAmount.ToString("C", CultureInfo.CurrentCulture)} {s.commission.ToString("C", CultureInfo.CurrentCulture)} {s.getRate().ToString("P", CultureInfo.CurrentCulture)}");
          
    }
 
    public static void DisplayTotal(SalesTransaction s)
    {
-        
+        WriteLine($"Total Sales: {s.salesAmount.ToString("C", CultureInfo.CurrentCulture)}");
    }
 }
 
@@ -31,8 +31,8 @@ class SalesTransaction
 {
     public double salesAmount {get; set;}
     public string Name {get; set;}
-    public double Commission {get; set;}
-    public double RATE {get; set;}
+    public double commission {get; set;}
+    readonly double RATE;
     
     public double getRate()
     {
@@ -41,32 +41,32 @@ class SalesTransaction
     
     public static SalesTransaction operator+(SalesTransaction st1, SalesTransaction st2)
     {
-        double newSalesAmount = st1.SalesAmount + st2.SalesAmount;
-        return (new SalesTransaction("total", newSalesAmount));
+        double newSalesAmount = st1.salesAmount + st2.salesAmount;
+        return (new SalesTransaction(newSalesAmount));
     }
     
     public SalesTransaction(string name, double salesAmount, double rate)
     {
         Name = name;
-        SalesAmount = salesAmount;
+        this.salesAmount = salesAmount;
         RATE = rate;
-        Commission = salesAmount * rate;
+        commission = salesAmount * rate;
     }
     
     
      public SalesTransaction(string name, double salesAmount)
     {
         Name = name;
-        SalesAmount = salesAmount;
+        this.salesAmount = salesAmount;
         RATE = 0;
     }
     
     public SalesTransaction(string name)
     {
         Name = name;
-        SalesAmount = 0;
+        salesAmount = 0;
         RATE = 0;
-        Commission = 0;
+        commission = 0;
     }
 }
 
@@ -78,5 +78,6 @@ class SalesTransaction
 Name: string
 salesAmount: double
 commission: double
-RATE: readonly (stores commission rate as a double.) Define a getRate() accessor method that returns the RATE
+RATE: readonly (stores commission rate as a double.) Define a getRate() accessor method that returns the RATE.
+WriteLine("This is an example: {0}", value.ToString("C", CultureInfo.GetCultureInfo("en-US")));
  */

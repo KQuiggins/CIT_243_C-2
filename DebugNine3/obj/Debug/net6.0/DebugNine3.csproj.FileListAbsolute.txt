@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.AssemblyInfo.cs
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\bin\Debug\net6.0\DebugNine3.exe
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\bin\Debug\net6.0\DebugNine3.deps.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\bin\Debug\net6.0\DebugNine3.runtimeconfig.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\bin\Debug\net6.0\DebugNine3.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\bin\Debug\net6.0\DebugNine3.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\refint\DebugNine3.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\DebugNine3.genruntimeconfig.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugNine3\obj\Debug\net6.0\ref\DebugNine3.dll
