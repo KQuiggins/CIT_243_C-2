@@ -3,76 +3,88 @@ using static System.Console;
 using System.Globalization;
 class SalesTransactionDemo
 {
-
-
-  
-    
    static void Main()
    {
-        SalesTransaction sale1 = new SalesTransaction("Joe", 200.50, 20.00);
+        SalesTransaction sale1 = new SalesTransaction("Joe", 200.50, 0.2);
         SalesTransaction sale2 = new SalesTransaction("Ellen", 15.99);
         SalesTransaction sale3 = new SalesTransaction("Sue");
-        SalesTransaction sale4;
-        sale4 = sale1 + sale2;
-        WriteLine(sale1.salesAmount.ToString("C", CultureInfo.GetCultureInfo("en-US")));
-        
+        Display(sale1);
+        Display(sale2);
+        Display(sale3);
+        DisplayTotal(sale1);
+        DisplayTotal(sale2);
+        DisplayTotal(sale3);
    }
    public static void Display(SalesTransaction s)
    {
-         WriteLine($"{s.Name} {s.salesAmount.ToString("C", CultureInfo.CurrentCulture)} {s.commission.ToString("C", CultureInfo.CurrentCulture)} {s.getRate().ToString("P", CultureInfo.CurrentCulture)}");
-         
+        WriteLine($"{s.Name} {s.salesAmount} {s.getRate()}");
    }
-
    public static void DisplayTotal(SalesTransaction s)
    {
-        WriteLine($"Total Sales: {s.salesAmount.ToString("C", CultureInfo.CurrentCulture)}");
+        WriteLine($"s.salesAmount");
    }
 }
 
 class SalesTransaction
 {
-    public double salesAmount {get; set;}
-    public string Name {get; set;}
-    public double commission {get; set;}
-    readonly double RATE;
+  
+  
+  public double SalesAmount;
+  public double Commission;
+  public string name;
+  
+  public string Name {get; set;}
+  public double salesAmount {get; set;}
+  public double commission {get; set;} 
+  readonly double RATE;
+
+  
+
+  
+
+  
+
+
+  
+
+  public SalesTransaction(string name, double salesAmount, double rate)
+  {
+    Name = name;
+    SalesAmount = salesAmount;
+    RATE = rate;
+    Commission = SalesAmount * RATE;
     
-    public double getRate()
-    {
-        return RATE;
-    }
-    
-    public static SalesTransaction operator+(SalesTransaction st1, SalesTransaction st2)
-    
-    {
-        
-        double newSalesAmount;
-        newSalesAmount = st1.salesAmount + st2.salesAmount;
-        return (new SalesTransaction(newSalesAmount));
-    }
-    
-    public SalesTransaction(string name, double salesAmount, double rate)
-    {
-        Name = name;
-        this.salesAmount = salesAmount;
-        RATE = rate;
-        commission = salesAmount * rate;
-    }
-    
-    
-     public SalesTransaction(string name, double salesAmount)
-    {
-        Name = name;
-        this.salesAmount = salesAmount;
-        RATE = 0;
-    }
-    
-    public SalesTransaction(string name)
-    {
-        Name = name;
-        salesAmount = 0;
-        RATE = 0;
-        commission = 0;
-    }
+
+  }
+
+  public SalesTransaction(string name, double salesAmount) : this(name, salesAmount,0)
+  {
+
+  }
+
+  public SalesTransaction(string name) : this(name,0,0)
+  {
+
+  }
+
+  public static SalesTransaction operator +(SalesTransaction st1, SalesTransaction st2)
+  {
+    string combineNames;
+    double totalSalesAmount;
+    combineNames = st1.Name + st2.Name;
+    totalSalesAmount = st1.SalesAmount + st2.SalesAmount;
+
+    return(new SalesTransaction(combineNames, totalSalesAmount));
+  }
+
+  public double getRate()
+  {
+    return RATE;
+  }
+
+  
+
+
 }
 
 
