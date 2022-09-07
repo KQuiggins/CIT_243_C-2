@@ -44,8 +44,10 @@ class SalesTransaction
     public static SalesTransaction operator+(SalesTransaction st1, SalesTransaction st2)
     
     {
-        st4 = st1 + st2;
-        return st4;
+        
+        double newSalesAmount;
+        newSalesAmount = st1.salesAmount + st2.salesAmount;
+        return (new SalesTransaction(newSalesAmount));
     }
     
     public SalesTransaction(string name, double salesAmount, double rate)
