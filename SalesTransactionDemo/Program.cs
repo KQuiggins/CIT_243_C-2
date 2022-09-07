@@ -12,7 +12,9 @@ class SalesTransactionDemo
         SalesTransaction sale1 = new SalesTransaction("Joe", 200.50, 20.00);
         SalesTransaction sale2 = new SalesTransaction("Ellen", 15.99);
         SalesTransaction sale3 = new SalesTransaction("Sue");
-        
+        SalesTransaction sale4;
+        sale4 = sale1 + sale2;
+        WriteLine(sale1.salesAmount.ToString("C", CultureInfo.GetCultureInfo("en-US")));
         
    }
    public static void Display(SalesTransaction s)
@@ -40,9 +42,10 @@ class SalesTransaction
     }
     
     public static SalesTransaction operator+(SalesTransaction st1, SalesTransaction st2)
+    
     {
-        double newSalesAmount = st1.salesAmount + st2.salesAmount;
-        return (new SalesTransaction(newSalesAmount));
+        st4 = st1 + st2;
+        return st4;
     }
     
     public SalesTransaction(string name, double salesAmount, double rate)
@@ -81,3 +84,11 @@ commission: double
 RATE: readonly (stores commission rate as a double.) Define a getRate() accessor method that returns the RATE.
 WriteLine("This is an example: {0}", value.ToString("C", CultureInfo.GetCultureInfo("en-US")));
  */
+
+/*  One constructor accepts values for the name, sales amount, and rate, and when the sales value is set, the constructor computes the commission as sales value times commission rate.
+
+The second constructor accepts a name and sales amount, but sets the commission rate to 0.
+
+The third constructor accepts a name and sets all the other fields to 0.
+
+An overloaded + operator adds the sales values for two SalesTransaction objects and returns a new SalesTransaction object. */
