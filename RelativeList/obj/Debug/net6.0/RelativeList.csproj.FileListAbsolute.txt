@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.AssemblyInfo.cs
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\bin\Debug\net6.0\RelativeList.exe
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\bin\Debug\net6.0\RelativeList.deps.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\bin\Debug\net6.0\RelativeList.runtimeconfig.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\bin\Debug\net6.0\RelativeList.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\bin\Debug\net6.0\RelativeList.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\refint\RelativeList.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\RelativeList.genruntimeconfig.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\RelativeList\obj\Debug\net6.0\ref\RelativeList.dll
