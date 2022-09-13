@@ -1,0 +1,15 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\bin\Debug\net6.0\DemoLoan.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\bin\Debug\net6.0\DemoLoan.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\bin\Debug\net6.0\DemoLoan.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\bin\Debug\net6.0\DemoLoan.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\bin\Debug\net6.0\DemoLoan.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\refint\DemoLoan.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\DemoLoan.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DemoLoan\obj\Debug\net6.0\ref\DemoLoan.dll
