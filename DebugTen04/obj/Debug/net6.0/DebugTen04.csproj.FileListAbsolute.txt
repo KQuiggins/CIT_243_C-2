@@ -1,0 +1,5 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.csproj.CoreCompileInputs.cache

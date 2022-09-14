@@ -5,10 +5,17 @@ using System.Collections.Generic;
 
 class PracticeCode
 {
+    public int IDNum {get; set;}
+    public string Name {get; set;}
     static void Main()
     {
-        Dictionary<int, string> dict = new Dictionary<int, string>();
-        dict.Add(1, "one");
-        dict.Add(2, "two");
+        Name = "Kenny";
+        IDNum = 1;
+        WriteLine(ToString());
+    }
+
+    public override string ToString()
+    {
+        return($"{Name} : {IDNum}");
     }
 }
