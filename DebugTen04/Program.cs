@@ -49,14 +49,14 @@ class HotelRoom
 }
 class SingleRoom : HotelRoom // fixed 
 {
-   public SingleRoom(int room) //: base (room) removed int room
+   public SingleRoom(int room) : base(room) //removed int room
    {
-      rate += PREMIUM; // added +=
+      rate -= PREMIUM; 
    }   
 }
 class Suite : HotelRoom // fixed
 {
-   public Suite(int room) // removed int room
+   public Suite(int room) : base(room)// removed int room
    {
       rate += PREMIUM;
    }

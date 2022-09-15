@@ -3,3 +3,13 @@ C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\
 C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.AssemblyInfoInputs.cache
 C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.AssemblyInfo.cs
 C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\bin\Debug\net6.0\DebugTen04.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\bin\Debug\net6.0\DebugTen04.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\bin\Debug\net6.0\DebugTen04.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\bin\Debug\net6.0\DebugTen04.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\bin\Debug\net6.0\DebugTen04.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\refint\DebugTen04.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\DebugTen04.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\DebugTen04\obj\Debug\net6.0\ref\DebugTen04.dll
