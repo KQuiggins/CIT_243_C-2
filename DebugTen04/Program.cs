@@ -49,14 +49,14 @@ class HotelRoom
 }
 class SingleRoom : HotelRoom // fixed missing colon 
 {
-   public SingleRoom(int room) : base(room) //removed int room
+   public SingleRoom(int room) : base(room) //added int room
    {
       rate -= PREMIUM; 
    }   
 }
-class Suite : HotelRoom // fixed
+class Suite : HotelRoom // fixed spelling
 {
-   public Suite(int room) : base(room)// removed int room
+   public Suite(int room) : base(room)// added int room
    {
       rate += PREMIUM;
    }
