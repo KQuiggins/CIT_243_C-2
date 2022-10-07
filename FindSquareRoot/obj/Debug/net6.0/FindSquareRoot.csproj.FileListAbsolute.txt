@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\C#\FindSquareRoot\bin\Debug\net6.0\FindSquareRoot.exe
+C:\Users\kashf\Desktop\C#\FindSquareRoot\bin\Debug\net6.0\FindSquareRoot.deps.json
+C:\Users\kashf\Desktop\C#\FindSquareRoot\bin\Debug\net6.0\FindSquareRoot.runtimeconfig.json
+C:\Users\kashf\Desktop\C#\FindSquareRoot\bin\Debug\net6.0\FindSquareRoot.dll
+C:\Users\kashf\Desktop\C#\FindSquareRoot\bin\Debug\net6.0\FindSquareRoot.pdb
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.AssemblyInfo.cs
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.dll
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\refint\FindSquareRoot.dll
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.pdb
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\FindSquareRoot.genruntimeconfig.cache
+C:\Users\kashf\Desktop\C#\FindSquareRoot\obj\Debug\net6.0\ref\FindSquareRoot.dll
