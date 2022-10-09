@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.AssemblyInfo.cs
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\bin\Debug\net6.0\DebugEleven01.exe
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\bin\Debug\net6.0\DebugEleven01.deps.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\bin\Debug\net6.0\DebugEleven01.runtimeconfig.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\bin\Debug\net6.0\DebugEleven01.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\bin\Debug\net6.0\DebugEleven01.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\refint\DebugEleven01.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\DebugEleven01.genruntimeconfig.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DebugEleven01\obj\Debug\net6.0\ref\DebugEleven01.dll

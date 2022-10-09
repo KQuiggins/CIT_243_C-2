@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ken\\.nuget\\packages\\": {},
+    "C:\\Users\\kashf\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\DebugTen04\\DebugTen04.csproj",
+      "projectUniqueName": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\DebugTen04\\DebugTen04.csproj",
       "projectName": "DebugTen04",
-      "projectPath": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\DebugTen04\\DebugTen04.csproj",
-      "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\DebugTen04\\obj\\",
+      "projectPath": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\DebugTen04\\DebugTen04.csproj",
+      "packagesPath": "C:\\Users\\kashf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\DebugTen04\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ken\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kashf\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -44,19 +44,19 @@ class HotelRoom
    {
       string temp = GetType() + " Room " + RoomNumber + " Rate: " +
         Rate.ToString("C", CultureInfo.GetCultureInfo("en-US"));
-      return temp; // fixed return 
+      return temp; // was returning string needed to return temp 
    }
 }
-class SingleRoom : HotelRoom // fixed 
+class SingleRoom : HotelRoom // fixed missing colon 
 {
-   public SingleRoom(int room) : base(room) //removed int room
+   public SingleRoom(int room) : base(room) //added int room
    {
       rate -= PREMIUM; 
    }   
 }
-class Suite : HotelRoom // fixed
+class Suite : HotelRoom // fixed spelling
 {
-   public Suite(int room) : base(room)// removed int room
+   public Suite(int room) : base(room)// added int room
    {
       rate += PREMIUM;
    }
