@@ -14,7 +14,7 @@ internal class Program
             double num1 = 0;
 
             Write("Enter a number ");
-            num1 = double.Parse(ReadLine());
+            num1 = Convert.ToDouble(ReadLine());
             if (num1 > 0)
             {
                 sqrt = Math.Sqrt(num1);
@@ -23,7 +23,7 @@ internal class Program
             else if (num1 <= 0)
             {
                 sqrt = 0;
-                throw new ApplicationException("Number is negative");
+                throw new ApplicationException("Number can't be negative.");
 
             }
         }
@@ -33,6 +33,10 @@ internal class Program
             WriteLine(error.Message);
 
 
+        }
+        catch(ApplicationException error)
+        {
+            WriteLine(error.Message);
         }
     }
 }

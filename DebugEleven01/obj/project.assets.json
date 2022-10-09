@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\FindSquareRoot\\FindSquareRoot.csproj",
-      "projectName": "FindSquareRoot",
-      "projectPath": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\FindSquareRoot\\FindSquareRoot.csproj",
+      "projectUniqueName": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\DebugEleven01\\DebugEleven01.csproj",
+      "projectName": "DebugEleven01",
+      "projectPath": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\DebugEleven01\\DebugEleven01.csproj",
       "packagesPath": "C:\\Users\\kashf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\FindSquareRoot\\obj\\",
+      "outputPath": "C:\\Users\\kashf\\Desktop\\GitRepos\\CIT_243_C-2\\DebugEleven01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
