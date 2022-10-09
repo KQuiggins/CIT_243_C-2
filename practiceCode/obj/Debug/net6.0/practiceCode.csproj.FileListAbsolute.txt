@@ -21,3 +21,10 @@ C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCod
 C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\obj\Debug\net6.0\practiceCode.dll
 C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\obj\Debug\net6.0\refint\practiceCode.dll
 C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\obj\Debug\net6.0\practiceCode.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\bin\Debug\net6.0\practiceCode.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\bin\Debug\net6.0\practiceCode.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\bin\Debug\net6.0\practiceCode.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\bin\Debug\net6.0\practiceCode.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\bin\Debug\net6.0\practiceCode.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\obj\Debug\net6.0\practiceCode.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\practiceCode\obj\Debug\net6.0\ref\practiceCode.dll

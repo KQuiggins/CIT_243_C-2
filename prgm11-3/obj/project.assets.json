@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\practiceCode\\practiceCode.csproj",
-      "projectName": "practiceCode",
-      "projectPath": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\practiceCode\\practiceCode.csproj",
+      "projectUniqueName": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\prgm11-3\\prgm11-3.csproj",
+      "projectName": "prgm11-3",
+      "projectPath": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\prgm11-3\\prgm11-3.csproj",
       "packagesPath": "C:\\Users\\Ken\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\practiceCode\\obj\\",
+      "outputPath": "C:\\Users\\Ken\\OneDrive - KCTCS\\Desktop\\GitRepos\\School_C#\\CIT_243_C-2\\prgm11-3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
