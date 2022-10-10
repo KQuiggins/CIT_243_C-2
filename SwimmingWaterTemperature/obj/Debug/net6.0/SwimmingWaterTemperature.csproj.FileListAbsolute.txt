@@ -1,0 +1,15 @@
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.csproj.AssemblyReference.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.AssemblyInfoInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.AssemblyInfo.cs
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.csproj.CoreCompileInputs.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\bin\Debug\net6.0\SwimmingWaterTemperature.exe
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\bin\Debug\net6.0\SwimmingWaterTemperature.deps.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\bin\Debug\net6.0\SwimmingWaterTemperature.runtimeconfig.json
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\bin\Debug\net6.0\SwimmingWaterTemperature.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\bin\Debug\net6.0\SwimmingWaterTemperature.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\refint\SwimmingWaterTemperature.dll
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.pdb
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\SwimmingWaterTemperature.genruntimeconfig.cache
+C:\Users\Ken\OneDrive - KCTCS\Desktop\GitRepos\School_C#\CIT_243_C-2\SwimmingWaterTemperature\obj\Debug\net6.0\ref\SwimmingWaterTemperature.dll
