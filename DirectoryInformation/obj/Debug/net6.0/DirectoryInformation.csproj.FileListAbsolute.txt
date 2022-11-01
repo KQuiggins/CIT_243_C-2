@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\bin\Debug\net6.0\DirectoryInformation.exe
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\bin\Debug\net6.0\DirectoryInformation.deps.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\bin\Debug\net6.0\DirectoryInformation.runtimeconfig.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\bin\Debug\net6.0\DirectoryInformation.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\bin\Debug\net6.0\DirectoryInformation.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.AssemblyInfo.cs
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\refint\DirectoryInformation.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\DirectoryInformation.genruntimeconfig.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\DirectoryInformation\obj\Debug\net6.0\ref\DirectoryInformation.dll
