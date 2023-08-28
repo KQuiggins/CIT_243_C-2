@@ -1,0 +1,15 @@
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\bin\Debug\net7.0\InputMethodDemo.exe
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\bin\Debug\net7.0\InputMethodDemo.deps.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\bin\Debug\net7.0\InputMethodDemo.runtimeconfig.json
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\bin\Debug\net7.0\InputMethodDemo.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\bin\Debug\net7.0\InputMethodDemo.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.csproj.AssemblyReference.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.AssemblyInfoInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.AssemblyInfo.cs
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\refint\InputMethodDemo.dll
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.pdb
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\InputMethodDemo.genruntimeconfig.cache
+C:\Users\kashf\Desktop\GitRepos\CIT_243_C-2\InputMethodDemo\obj\Debug\net7.0\ref\InputMethodDemo.dll
