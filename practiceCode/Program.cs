@@ -1,34 +1,35 @@
-﻿using static System.Console;
-using System.Reflection;
-using System.Collections.Generic;
-
-
-
-
-int num = 13, denom = 0, result;
-int[] array = {22, 13, 44};
-bool isGoodItem = false;
-WriteLine(!isGoodItem);
-
+﻿using System;
+using static System.Console;
+using System.Globalization;
+using System.Security.Cryptography.X509Certificates;
 
 try
 {
-    result = num / denom;
-    result = array[num];
+    Divide();
 }
-
-catch(DivideByZeroException error)
+catch (DivideByZeroException)
 {
-    WriteLine("In the first catch block: ");
-    WriteLine(error.Message);
-
+    WriteLine("Can't divide by zero");
 }
-catch(IndexOutOfRangeException error)
+
+static void Divide()
 {
-    WriteLine("In the second catch block: ");
-    WriteLine(error.Message);
-    WriteLine(error.StackTrace);
-
+    WriteLine("Enter a number: ");
+    double dividend = Convert.ToDouble(ReadLine());
+    double divisor;
+    do
+    {
+        WriteLine("Enter another number (cannot be zero): ");
+        divisor = Convert.ToDouble(ReadLine());
+    } while (divisor == 0);
+    double result = dividend / divisor;
+    WriteLine("{0} divided by {1} is {2}",
+        dividend, divisor, result);
 }
 
-    
+
+
+
+
+
+
